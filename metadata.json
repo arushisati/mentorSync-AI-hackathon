@@ -1,0 +1,8 @@
+{
+  "name": "MentorSync AI",
+  "description": "Every Student Connected. Every Concern Tracked. An intelligent academic mentoring platform featuring fair MentorMatch allocation, multilingual student support, requirements radar, and concern tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
